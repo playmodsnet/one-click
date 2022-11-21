@@ -4,7 +4,7 @@ subtitle: Get and Download 100% Working mod with PlayMods!
 image: /img/gplay-com.tocaboca.tocalifeworld.jpg
 blurb:
     heading: What is PlayMods?
-    text: "PlayMods is paltform for mod lovers to download,request and test android mods.PlayMods don't make the mods, and all the mods came from the internet. Over 30,0000 android app mods can be downloaded on PlayMods. And we will add more android mod games and apps for users.We also offer users the most popular and latest official games and apps. You can download the games and apps that you want.."
+    text: "[PlayMods](https://www.playmods.net) is paltform for mod lovers to download,request and test android mods.PlayMods don't make the mods, and all the mods came from the internet. Over 30,0000 android app mods can be downloaded on PlayMods. And we will add more android mod games and apps for users.We also offer users the most popular and latest official games and apps. You can download the games and apps that you want.."
 intro:
     heading: "Is PlayMods safe?"
     text: "PlayMods is totally safe. All the apks on PlayMods are manually vetted and approved. And, pick out the 100% working one, it is on the top of the game page. Therefore, if you download the app from PlayMods you should be safe."
