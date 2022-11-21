@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "PLAYMODS"
+subtitle: Get and Download 100% Working mod with PlayMods!
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: What is PlayMods?
+    text: "PlayMods is paltform for mod lovers to download,request and test android mods.PlayMods don't make the mods, and all the mods came from the internet. Over 30,0000 android app mods can be downloaded on PlayMods. And we will add more android mod games and apps for users.We also offer users the most popular and latest official games and apps. You can download the games and apps that you want.."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Is PlayMods safe?"
+    text: "PlayMods is totally safe. All the apks on PlayMods are manually vetted and approved. And, pick out the 100% working one, it is on the top of the game page. Therefore, if you download the app from PlayMods you should be safe."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: /img-introduce-1.png
+      text: "PlayMods provides you to take the useful and helpful modified games and apps for free. It is the Modded Apk Store which comes with the plenty of the latest and popular games and apps, you can download it with the super fast download speed."
+    - image: /img-introduce-2.png
+      text: "Get the 100% working Mods tested by our editors' and users' recommendations every day. You'll never miss any trending Android mods. And PlayMods provides tons of popular modded games and paid app all for free."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: The Best Place to download Mod apk
+    text: Download Apps that you cannot even find in Play Store search results. Find 300,000+ mods apk and download easily. No need to worry about the virus because there is a 100% safe downloading process.
 ---
 
