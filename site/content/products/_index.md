@@ -1,7 +1,7 @@
 ---
 title: PLAYMODS
 type: products
-image: /img/logo.svg
+image: /img/gplay-com.tocaboca.tocalifeworld.jpg
 heading: What we offer
 description: >-
   PlayMods provides you to take the useful and helpful modified games and apps for free. It is the Modded Apk Store which comes with the plenty of the latest and popular games and apps, you can download it with the super fast download speed.
