@@ -2,44 +2,20 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "What does mod version game mean?"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      The mod version of the game means a modification or enhancement program of the game. In fact, it can be seen in the English translation that mod is the abbreviation of the English word modification, which means modification, and the Chinese is also transliterated as "module". In layman's terms, on the basis of the original game, the programming boss in the player will try to modify some data settings in the game, such as characters, enemies, things, as well as the appearance and voice of the characters, weapons, tools, maps, etc. Wait, write a new mission story to make the modified game more playable.
+    imageUrl: "/img/What-is-Mod-APK.jpg"
+  - heading: "About the mod game online problem"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Because of the emergence of the mod version of the game, there are also a group of mod players, which is more fun and exciting, who doesn't like it! The master is in the folk, there are masters, so the mod game is not only used for single-player games, but also online, as long as the same version of the game is installed. But because the use of mods in a stand-alone game will not affect the game experience of others, the mod mode is still more in a stand-alone game.
+    imageUrl: "/img/060e04c2-d75a-4631-adca-a3c0475ae265.png"
+  - heading: "Technology about mod games"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      The technology of mod games is quite mature in the world. It brings more plasticity, flexibility and playability to the game. The mod technology is applied within a reasonable range, and the game official is also recognized. Sure enough, the big guys are more interesting than the average person to play games, and they are envious. On the Internet, there are often big guys who provide free game modules for us ordinary players to use. In the face of such a good thing, I can only say thank you!
+    imageUrl: "/img/812bf04d-5941-b7e6-dfac-8e005dde2bb3.jpg"
+  - heading: "Game famous for mods"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Common game recommendations with mods: Minecraft, The Elder Scrolls 5 Skyrim, Fallout New Vegas, Grand Theft Auto, Don't Starve, etc. The playability is very high, and friends can try it. In the mod game, you can experience the fun and scalability it contains, which cannot be achieved in the normal mode.
+ 
 ---
