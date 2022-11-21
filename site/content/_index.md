@@ -1,7 +1,7 @@
 ---
 title: "PLAYMODS"
 subtitle: Get and Download 100% Working mod with PlayMods!
-image: /img/home-jumbotron.jpg
+image: /img/gplay-com.tocaboca.tocalifeworld.jpg
 blurb:
     heading: What is PlayMods?
     text: "PlayMods is paltform for mod lovers to download,request and test android mods.PlayMods don't make the mods, and all the mods came from the internet. Over 30,0000 android app mods can be downloaded on PlayMods. And we will add more android mod games and apps for users.We also offer users the most popular and latest official games and apps. You can download the games and apps that you want.."
